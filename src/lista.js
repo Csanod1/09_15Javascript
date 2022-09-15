@@ -1,4 +1,4 @@
-let lista = [];
+export let lista = [];
 
 export function hozzaad(szam){
     if(szam < 0){
